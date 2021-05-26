@@ -1,4 +1,4 @@
-# Developed by https://github.com/285187
+# Developed by https://github.com/igormv28
 import json
 import requests 
 import csv 
